@@ -4,7 +4,6 @@
 from Service.SystemService import System
 from Service.YoutubeExtractorService import Youtube
 from Service.SocialMediaExtractorService import SocialMedia
-import asyncio
 
 class Main:
     def __init__(self):
