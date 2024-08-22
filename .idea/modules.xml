@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/YoutubeFileDownloader.iml" filepath="$PROJECT_DIR$/.idea/YoutubeFileDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebDownloader.iml" filepath="$PROJECT_DIR$/.idea/WebDownloader.iml" />
     </modules>
   </component>
 </project>
